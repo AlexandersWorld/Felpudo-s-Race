@@ -29,7 +29,7 @@ Can you keep running and survive until the end?
 
 Here’s what the main screen looks like:
 
-![Felpudo's Race Main Screen](./screenshots/main-screen.png)
+![Felpudo's Race Main Screen](./Assets/screenshots/main-screen.png)
 
 ---
 
