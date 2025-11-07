@@ -11,7 +11,7 @@ Can you keep running and survive until the end?
 |--------|-----|
 | Move Left | **A** |
 | Move Right | **D** |
-| Move Down | **S** |
+| Crunch | **S** |
 | Jump | **SPACE** |
 
 ---
@@ -30,7 +30,6 @@ Can you keep running and survive until the end?
 Here’s what the main screen looks like:
 
 ![Felpudo's Race Main Screen](./screenshots/main-screen.png)
-> *(Replace the path above with the actual location of your image.)*
 
 ---
 
