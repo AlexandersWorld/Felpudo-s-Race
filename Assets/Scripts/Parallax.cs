@@ -14,7 +14,6 @@ public class Parallax : MonoBehaviour
         Mat = GetComponent<Renderer>().material;
     }
 
-    // Update is called once per frame
     void Update()
     {
         Distance += Time.deltaTime * Speed;
